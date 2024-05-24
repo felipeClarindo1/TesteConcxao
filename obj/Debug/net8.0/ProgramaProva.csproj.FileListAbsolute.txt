@@ -1,0 +1,14 @@
+c:\Users\lipeg\Desktop\program\ProgramaProva\bin\Debug\net8.0\ProgramaProva.exe
+c:\Users\lipeg\Desktop\program\ProgramaProva\bin\Debug\net8.0\ProgramaProva.deps.json
+c:\Users\lipeg\Desktop\program\ProgramaProva\bin\Debug\net8.0\ProgramaProva.runtimeconfig.json
+c:\Users\lipeg\Desktop\program\ProgramaProva\bin\Debug\net8.0\ProgramaProva.dll
+c:\Users\lipeg\Desktop\program\ProgramaProva\bin\Debug\net8.0\ProgramaProva.pdb
+c:\Users\lipeg\Desktop\program\ProgramaProva\obj\Debug\net8.0\ProgramaProva.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\lipeg\Desktop\program\ProgramaProva\obj\Debug\net8.0\ProgramaProva.AssemblyInfoInputs.cache
+c:\Users\lipeg\Desktop\program\ProgramaProva\obj\Debug\net8.0\ProgramaProva.AssemblyInfo.cs
+c:\Users\lipeg\Desktop\program\ProgramaProva\obj\Debug\net8.0\ProgramaProva.csproj.CoreCompileInputs.cache
+c:\Users\lipeg\Desktop\program\ProgramaProva\obj\Debug\net8.0\ProgramaProva.dll
+c:\Users\lipeg\Desktop\program\ProgramaProva\obj\Debug\net8.0\refint\ProgramaProva.dll
+c:\Users\lipeg\Desktop\program\ProgramaProva\obj\Debug\net8.0\ProgramaProva.pdb
+c:\Users\lipeg\Desktop\program\ProgramaProva\obj\Debug\net8.0\ProgramaProva.genruntimeconfig.cache
+c:\Users\lipeg\Desktop\program\ProgramaProva\obj\Debug\net8.0\ref\ProgramaProva.dll
